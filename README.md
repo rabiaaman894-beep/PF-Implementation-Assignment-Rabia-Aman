@@ -10,15 +10,15 @@ Programming Language Used: **C/C++**
 
 **b. List of Programs:**
 
-	1.  Assigning values to three variables at the time of declaration.Program1.c++
-	2.  A program to print a message "C language is a powerful programming language."Program2.c++ 
-	3.  A program assigning, interchanging and printing result of two variables.Program3.c++
-	4.  Calculate the number of months.Program4.c++
-	5.  Sum and product of the numbers.Program5.c++
-	6.  A program to get age (in years) of a person. Calculate the age in months and print the age in months.Program6.c++
-	7.  A program to get the Roll No. of a student and marks obtained in three subjects. Calculate the Total and Average.Program7.c++
-	8.  Convert Fahrenheit to Celsius.Program8.c++
-	9.  Find the maximum number from four numbers.Program9.c++
+	1.  Assigning values to three variables at the time of declaration.Program01.c++
+	2.  A program to print a message "C language is a powerful programming language."Program02.c++ 
+	3.  A program assigning, interchanging and printing result of two variables.Program03.c++
+	4.  Calculate the number of months.Program04.c++
+	5.  Sum and product of the numbers.Program05.c++
+	6.  A program to get age (in years) of a person. Calculate the age in months and print the age in months.Program06.c++
+	7.  A program to get the Roll No. of a student and marks obtained in three subjects. Calculate the Total and Average.Program07.c++
+	8.  Convert Fahrenheit to Celsius.Program08.c++
+	9.  Find the maximum number from four numbers.Program09.c++
 	10. Convert 2.5 miles into kilometers.Program10.c++
 	11. Calculate the average.Program11.c++
 	12. Find the volume of a cylinder.Program12.c++
@@ -52,9 +52,9 @@ Programming Language Used: **C/C++**
 **c. How to Run:**
 **For C/C++:**
 
-g++ program01.cpp -o program01
+g++ Program01.c++ -o Program01.c++
 
-./program01
+./Program01.c++
 
 
 
